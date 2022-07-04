@@ -1,4 +1,4 @@
-# burger_app
+# Burger app
 
 A new Flutter project.
 
